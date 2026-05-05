@@ -2,32 +2,6 @@
 
 Qualitätssicherung Vorlesung | Fertigungsbeispiel: Schraubenproduktion M8 × 25 mm
 
-## Dateien
-
-| Datei | Beschreibung |
-|-------|-------------|
-| `glorreiche_sieben.tex` | LaTeX Beamer-Folien (alle 7 Werkzeuge) |
-| `glorreiche_sieben_app.py` | Interaktive Streamlit-App |
-| `requirements.txt` | Python-Abhängigkeiten |
-
----
-
-## LaTeX-Folien kompilieren
-
-```bash
-# Einmal kompilieren (reicht meistens)
-pdflatex glorreiche_sieben.tex
-
-# Oder mit latexmk (empfohlen)
-latexmk -pdf glorreiche_sieben.tex
-```
-
-### Benötigte LaTeX-Pakete
-- `beamer`, `tikz`, `pgfplots`
-- `booktabs`, `tcolorbox`, `fontawesome5`
-- `xcolor`, `amsmath`
-
-(Alle in TeX Live / MikTeX enthalten)
 
 ---
 
