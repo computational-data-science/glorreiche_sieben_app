@@ -13,6 +13,10 @@ pip install -r requirements.txt
 
 # App starten
 streamlit run glorreiche_sieben_app.py
+
+oder
+
+python3 -m streamlit run glorreiche_sieben_app.py
 ```
 
 Die App öffnet sich automatisch im Browser unter `http://localhost:8501`.
