@@ -52,12 +52,3 @@ Synthetisch generiert — simuliert eine reale Schraubenproduktion:
 
 ---
 
-## Verwendung in der Vorlesung
-
-1. **Folien** für die theoretische Einführung jedes Werkzeugs
-2. **App** live im Hörsaal zeigen — Parameter anpassen und Effekte direkt sehen
-3. **Aufgaben für Studierende:**
-   - Cp-Wert interpretieren: Was bedeutet σ = 0,20 vs. 0,08?
-   - Pareto: Welche Maßnahme würde 80 % der Fehler reduzieren?
-   - Kontrollkarte: Ab wann schlägt die Karte beim Drift an?
-   - Ishikawa: Für jede Fehlerart 5-Why-Analyse durchführen
